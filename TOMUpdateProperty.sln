@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOMUpdateProperty", "TOMUpdateProperty\TOMUpdateProperty.csproj", "{39D18A57-B836-47D7-83CA-F832B1B4A204}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39D18A57-B836-47D7-83CA-F832B1B4A204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D18A57-B836-47D7-83CA-F832B1B4A204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D18A57-B836-47D7-83CA-F832B1B4A204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D18A57-B836-47D7-83CA-F832B1B4A204}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FDE807D-850D-4F79-8E98-252CB8B9AFDE}
+	EndGlobalSection
+EndGlobal

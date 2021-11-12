@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QwPiPXGjXA4oqAapwwe3rFPKQxh/+jJBnC/R/t8XlacX4fcpwDRt9tjrQHpsg6i2+ZpE7Ccu3c0bd9TFWB6kEg==",
+  "success": true,
+  "projectFilePath": "C:\\PIOTRSKO\\PG\\AAS\\TOMUpdateProperty\\TOMUpdateProperty\\TOMUpdateProperty.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\piotrsko\\.nuget\\packages\\microsoft.analysisservices.retail.amd64\\19.27.2.1\\microsoft.analysisservices.retail.amd64.19.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
